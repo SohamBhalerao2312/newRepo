@@ -33,5 +33,7 @@ public class Main {
         {
             System.out.println(i.name+ " "+ i.age);
         }
+
+        System.out.println("Add an avatar for the user");
     }
 }
